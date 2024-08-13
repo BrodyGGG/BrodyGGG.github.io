@@ -14,7 +14,7 @@ Both projects demonstrate my skills in frontend and backend development and user
 
 ## Banking App
 
-##Link
+## Link
 -[Banking App](https://github.com/Weber-Cooper-Maitoza/banking-app-group)
 ### Overview
 The Banking App allows users to manage their finances with ease. It includes features such as:
