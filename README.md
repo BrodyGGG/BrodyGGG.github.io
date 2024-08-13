@@ -1,8 +1,8 @@
 # Brodys Portfolio
 
 Welcome to my portfolio! 
-This repository showcases two of my projects: a **Banking App** and a **Hangman Game**. 
-Both projects demonstrate my skills in frontend and backend development, as well as my ability to create interactive and user-friendly applications.
+This repository showcases two of my group projects: a **Banking App** and a **Hangman Game**. 
+Both projects demonstrate my skills in frontend and backend development and user friendly applications.
 
 ## Table of Contents
 
@@ -14,6 +14,8 @@ Both projects demonstrate my skills in frontend and backend development, as well
 
 ## Banking App
 
+##Link
+-**Github:** [Banking App](https://github.com/Weber-Cooper-Maitoza/banking-app-group)
 ### Overview
 The Banking App allows users to manage their finances with ease. It includes features such as:
 - Viewing account balances.
@@ -26,6 +28,13 @@ The Banking App allows users to manage their finances with ease. It includes fea
 - **Password Hashing:** Storing obscure passwords inside the database for protection
 - **Account Management:** View and manage checking, savings, and investment accounts.
 - **Transaction History:** Track deposits, withdraws and transfers for each user.
+
+### Contributions 
+-Password hashing 
+-Create Account front / back  
+-Login front / back 
+-Create Admin account front / back 
+-Creating Sessions
 
 ### Technologies
 - Frontend: React
@@ -47,6 +56,12 @@ A highscore is kept for the players and displays when a game is won or lost.
 ### Features
 - **Interactive Gameplay:** Users can guess letters and see the correct and incorrect letters while displaying where correct guesses are made.
 - **Score Tracking:** Keeps track of high scores for each length of word
+
+### Contributions
+- Selecting random word from database.
+- Creating session to keep username, word, length, letters guessed, and if guess was in word.
+- Checking users guessed letter and returning array with only correct guesses shown.
+- backend route returning correct word .
 
 ### Technologies
 - Backend: Node.js with Express.js for session management
