@@ -10,7 +10,7 @@ and the journey. Enjoy.
 1. [Banking App](#banking-app)
 2. [Hangman Game](#hangman-game)
 3. [Connect Four](#Connect-Four)
-4. [Read Write Txt](#Read-Write)
+4. [Read Write Text File](#Read-Write)
 5. [Technologies Used](#technologies-used)
 6. [Installation](#installation)
 7. [Contact](#contact)
@@ -112,7 +112,8 @@ A highscore is kept for the players and displays when a game is won or lost.
 
 ### Overview
 - Saving data to a local text file.
-- User saves there name and favorite food. 
+- User saves there name and favorite food.
+- Search a food to see if anyone else loves that food 
 
 ### Features
 - Express
