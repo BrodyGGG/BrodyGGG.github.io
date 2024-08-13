@@ -28,11 +28,12 @@ The Banking App allows users to manage their finances with ease. It includes fea
 - **Transaction History:** Track deposits, withdraws and transfers for each user.
 
 ### Contributions 
--Password hashing 
--Create Account front / back  
--Login front / back 
--Create Admin account front / back 
--Creating Sessions
+- Password hashing 
+- Create Account front / back  
+- Login front / back 
+- Create Admin account front / back 
+- Creating Sessions
+- Holding an employees or admin status with a customer id in session for employee access to customers account
 
 ### Technologies
 - Frontend: React
@@ -43,9 +44,9 @@ The Banking App allows users to manage their finances with ease. It includes fea
 
 ### How to Run
 1. Clone the repository.
-2. Navigate to the `banking-app` directory.
-3. Run `npm install` to install dependencies.
-4. Start the development server with `npm start`.
+2. Navigate to the `banking-app-group` directory.
+3. Run `npm install` to install dependencies on front and back end.
+4. Start the development server with `npm start` on both ends.
 
 ## Hangman Game
 -  [Hangman](https://github.com/Weber-Cooper-Maitoza/Hangman_Game_Group)
@@ -62,7 +63,7 @@ A highscore is kept for the players and displays when a game is won or lost.
 - Selecting random word from database.
 - Creating session to keep username, word, length, letters guessed, and if guess was in word.
 - Checking users guessed letter and returning array with only correct guesses shown.
-- backend route returning correct word .
+- Backend route returning correct word.
 
 ### Technologies
 - Backend: Node.js with Express.js for session management
@@ -72,9 +73,9 @@ A highscore is kept for the players and displays when a game is won or lost.
 
 ### How to Run
 1. Clone the repository.
-2. Navigate to the `hangman-game` directory.
-3. Run `npm install` to install dependencies.
-4. Start the development server with `npm start`.
+2. Navigate to the `Hangman-Game-Group` directory.
+3. Run `npm install` to install dependencies on both ends.
+4. Start the development server with `npm start` on both ends.
 
 ## Technologies Used
 
