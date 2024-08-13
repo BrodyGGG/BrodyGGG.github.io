@@ -66,6 +66,8 @@ A highscore is kept for the players and displays when a game is won or lost.
 - Backend: Node.js with Express.js for session management
 - Frontend: HTML, CSS, JavaScript
 
+![Hangman Demo](gifs/ezgif.com-optimize.gif)
+
 ### How to Run
 1. Clone the repository.
 2. Navigate to the `hangman-game` directory.
