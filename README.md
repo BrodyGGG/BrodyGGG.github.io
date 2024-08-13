@@ -46,7 +46,7 @@ The Banking App allows users to manage their finances with ease. It includes fea
 4. Start the development server with `npm start`.
 
 ## Hangman Game
--  [Hangman](https://github.com/Weber-Cooper-Maitoza/banking-app-group](https://github.com/Weber-Cooper-Maitoza/Hangman_Game_Group)
+-  [Hangman](https://github.com/Weber-Cooper-Maitoza/Hangman_Game_Group)
 
 ### Overview
 Classic word guessing game where players try to guess the word before running out of attempts.
