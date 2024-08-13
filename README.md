@@ -2,7 +2,7 @@
 
 Welcome!
 This repository showcases two of my group projects: a **Banking App** and a **Hangman Game** as well as 
-a few other projects I created. These projects are to show case what I have learned throughout my software application 
+a few other projects I created. These projects are to show case what I have learned throughout my software engineering class 
 and the journey. Enjoy. 
 
 ## Table of Contents
