@@ -88,11 +88,11 @@ A highscore is kept for the players and displays when a game is won or lost.
 -React web application for the classic connect four game 
 
 ### Features
--Two players
--Winning and tying moves 
--Displays players turn and winner
--Tiles "fall" until landing on block or bottom row
--Bad color choices (:
+- Two players
+- Winning and tying moves 
+- Displays players turn and winner
+- Tiles "fall" until landing on block or bottom row
+- Bad color choices (:
 
 ### Technologies
 - Frontend: React
