@@ -2,17 +2,18 @@
 
 Welcome!
 This repository showcases two of my group projects: a **Banking App** and a **Hangman Game** as well as 
-a few other projects I created. 
-Both projects demonstrate my skills in frontend and backend development and user friendly applications.
+a few other projects I created. These projects are to show case what I have learned throughout my software application 
+and the journey. Enjoy. 
 
 ## Table of Contents
 
 1. [Banking App](#banking-app)
 2. [Hangman Game](#hangman-game)
 3. [Connect Four](#Connect-Four)
-4. [Technologies Used](#technologies-used)
-5. [Installation](#installation)
-6. [Contact](#contact)
+4. [Read Write Txt](#Read-Write)
+5. [Technologies Used](#technologies-used)
+6. [Installation](#installation)
+7. [Contact](#contact)
 
 ## Banking App
 -  [Banking](https://github.com/Weber-Cooper-Maitoza/banking-app-group)
@@ -101,6 +102,31 @@ A highscore is kept for the players and displays when a game is won or lost.
 ### How to Run
 1. Clone the repository.
 2. Navigate to the `connectFour` directory.
+3. Run `npm install` to install dependencies.
+4. Start the development server with `npm start`.
+
+   
+## Read Write
+
+-  [Read Write](https://github.com/BrodyGGG/readWriteTextfile)
+
+### Overview
+- Saving data to a local text file.
+- User saves there name and favorite food. 
+
+### Features
+- Express
+- Front and backend routes
+- Handling parameters 
+
+### Technologies
+- HTML
+- Javascript
+- Express
+
+### How to Run
+1. Clone the repository.
+2. Navigate to the `readWrite` directory.
 3. Run `npm install` to install dependencies.
 4. Start the development server with `npm start`.
 
