@@ -1,16 +1,18 @@
 # Brodys Portfolio
 
-Welcome to my portfolio! 
-This repository showcases two of my group projects: a **Banking App** and a **Hangman Game**. 
+Welcome!
+This repository showcases two of my group projects: a **Banking App** and a **Hangman Game** as well as 
+a few other projects I created. 
 Both projects demonstrate my skills in frontend and backend development and user friendly applications.
 
 ## Table of Contents
 
 1. [Banking App](#banking-app)
 2. [Hangman Game](#hangman-game)
-3. [Technologies Used](#technologies-used)
-4. [Installation](#installation)
-5. [Contact](#contact)
+3. [Connect Four}(#connectFour)
+4. [Technologies Used](#technologies-used)
+5. [Installation](#installation)
+6. [Contact](#contact)
 
 ## Banking App
 -  [Banking](https://github.com/Weber-Cooper-Maitoza/banking-app-group)
@@ -76,6 +78,30 @@ A highscore is kept for the players and displays when a game is won or lost.
 2. Navigate to the `Hangman-Game-Group` directory.
 3. Run `npm install` to install dependencies on both ends.
 4. Start the development server with `npm start` on both ends.
+
+
+## Connect Four
+
+-  [Connect Four](https://github.com/BrodyGGG/connectFour/tree/main/connectFour)
+
+### Overview
+-React web application for the classic connect four game 
+
+### Features
+-Two players
+-Winning and tying moves 
+-Displays players turn and winner
+-Tiles "fall" until landing on block or bottom row
+
+### Technologies
+- Frontend: React
+- Javascript
+
+### How to Run
+1. Clone the repository.
+2. Navigate to the `connectFour` directory.
+3. Run `npm install` to install dependencies.
+4. Start the development server with `npm start`.
 
 ## Technologies Used
 
