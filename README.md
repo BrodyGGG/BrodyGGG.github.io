@@ -38,7 +38,8 @@ The Banking App allows users to manage their finances with ease. It includes fea
 - Frontend: React
 - Backend: Express.js
 - Database: MongoDB
-- ![Hangman Demo](gifs/bankDemo.gif)
+
+ ![Hangman Demo](gifs/bankDemo.gif)
 
 ### How to Run
 1. Clone the repository.
