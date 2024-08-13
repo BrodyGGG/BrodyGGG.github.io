@@ -9,7 +9,7 @@ Both projects demonstrate my skills in frontend and backend development and user
 
 1. [Banking App](#banking-app)
 2. [Hangman Game](#hangman-game)
-3. [Connect Four}(#connectFour)
+3. [Connect Four](#connectFour)
 4. [Technologies Used](#technologies-used)
 5. [Installation](#installation)
 6. [Contact](#contact)
@@ -92,6 +92,7 @@ A highscore is kept for the players and displays when a game is won or lost.
 -Winning and tying moves 
 -Displays players turn and winner
 -Tiles "fall" until landing on block or bottom row
+-Bad color choices (:
 
 ### Technologies
 - Frontend: React
