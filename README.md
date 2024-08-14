@@ -1,4 +1,4 @@
-# Brodys Portfolio
+# Software Portfolio
 
 Welcome!
 This repository showcases two of my group projects: a **Banking App** and a **Hangman Game** as well as 
