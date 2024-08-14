@@ -11,10 +11,9 @@ and the journey. Enjoy.
 2. [Hangman Game](#hangman-game)
 3. [Connect Four](#Connect-Four)
 4. [Read Write Text File](#Read-Write)
-5. [Web Form](#Web-Form)
-6. [Technologies Used](#technologies-used)
-7. [Installation](#installation)
-8. [Contact](#contact)
+5. [Technologies Used](#technologies-used)
+6. [Installation](#installation)
+7. [Contact](#contact)
 
 ## Banking App
 -  [Banking](https://github.com/Weber-Cooper-Maitoza/banking-app-group)
