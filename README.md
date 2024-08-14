@@ -100,6 +100,8 @@ A highscore is kept for the players and displays when a game is won or lost.
 - Frontend: React
 - Javascript
 
+![ConnectFourDemo](gifs/connectFour.gif)
+
 ### How to Run
 1. Clone the repository.
 2. Navigate to the `connectFour` directory.
@@ -125,6 +127,8 @@ A highscore is kept for the players and displays when a game is won or lost.
 - HTML
 - Javascript
 - Express
+
+![Read Write](gifs/readWrite.gif)
 
 ### How to Run
 1. Clone the repository.
