@@ -1,6 +1,6 @@
 # Brodys Portfolio
 
-# Welcome!
+Welcome!
 I'm a computer science student at Weber State University and a programmer at Pye Barker FS. At Pye, I work on creating apps that make it easier for people to use Sedona. 
 I've worked on two main projects:
 
