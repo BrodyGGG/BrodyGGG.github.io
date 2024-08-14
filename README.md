@@ -130,30 +130,8 @@ A highscore is kept for the players and displays when a game is won or lost.
 1. Clone the repository.
 2. Navigate to the `readWrite` directory.
 3. Run `npm install` to install dependencies.
-4. Start the development server with `npm start`.
-
-## Web Form
-
--  [Web Form](https://github.com/BrodyGGG/simpleReactWebForm)
-
-### Overview
-- Saving data to a local text file.
-- User saves there name and favorite food.
-
-### Features
-- Express
-- Front and backend routes 
-
-### Technologies
-- HTML
-- Javascript
-- Express
-
-### How to Run
-1. Clone the repository.
-2. Navigate to the `webForm` directory.
-3. Run `npm install` to install dependencies.
-4. Start the development server with `npm start`.
+4. Run `npm i -g react-scripts`.
+5. Start the development server with `npm start`.
 
 
 ## Technologies Used
