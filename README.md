@@ -172,5 +172,5 @@ To set up the projects locally:
    git clone https://github.com/BrodyGGG/BrodyGGG.github.io
    
 ## Contact 
--**Email:** brodygardner@mail.weber.edu
--**Github:** [BrodyGGG](https://github.com/BrodyGGG)
+- **Email:** brodygardner@mail.weber.edu
+- **Github:** [BrodyGGG](https://github.com/BrodyGGG)
