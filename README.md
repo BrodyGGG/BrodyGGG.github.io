@@ -4,7 +4,8 @@ Welcome!
 
 I'm currently a computer science student at Weber State University and a programmer at Pye Barker FS. At Pye, I focus on creating applications that streamline user interaction with Sedona. 
 I've contributed to two key projects:
-- **Parts Consolidation Tool:** Designed to remove and consolidate duplicate parts in our parts table, improving data accuracy and efficiency.
+- **Parts Consolidation Tool:** Designed to remove and consolidate duplicate parts in our parts table, improving data accuracy. The parts table has become quite giant as the company brings in new businesses and with
+    this tool it helps provide a more streamline way for parts to be consolidated and transfer respective data to one single part.
 -  **Workspace Application:** Currently in development, this app aims to remove traffic from Sedona by providing a  workspace for sales and other team members, enhancing their experience when accessing customer data.
   
 This repository showcases some of my group and individual projects, including a Banking App, Hangman Game, and more.
