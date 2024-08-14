@@ -1,9 +1,7 @@
 # Software Portfolio
 
-Welcome!
-This repository showcases two of my group projects: a **Banking App** and a **Hangman Game** as well as 
-a few other projects I created. These projects demonstrate what I have learned throughout my software engineering class 
-and the journey. Enjoy. 
+Welcome to my software portfolio! This repository showcases several of my group and individual projects, including a Banking App, Hangman Game, and more. 
+These projects demonstrate the skills and knowledge I've gained throughout my software engineering journey. Enjoy!
 
 ## Table of Contents
 
@@ -16,14 +14,12 @@ and the journey. Enjoy.
 7. [Installation](#installation)
 8. [Contact](#contact)
 
-## Banking App
+## Banking App Group
 -  [Banking](https://github.com/Weber-Cooper-Maitoza/banking-app-group)
+-  
 ### Overview
-The Banking App allows users to manage their finances with ease. It includes features such as:
-- Viewing account balances.
-- Making deposits withdrawals and transfers.
-- Admin accounts, employee acounts, and customers.
-- Login and create account pages.
+The Banking App allows users to efficiently manage their finances. It offers features like viewing account balances, making deposits, withdrawals, 
+and transfers, and managing different account types for admins, employees, and customers.
 
 ### Features
 - **User Authentication:** Secure login and session management to protect user data.
