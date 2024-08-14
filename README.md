@@ -16,7 +16,7 @@ These projects demonstrate the skills and knowledge I've gained throughout my so
 
 ## Banking App Group
 -  [Banking](https://github.com/Weber-Cooper-Maitoza/banking-app-group)
--  
+  
 ### Overview
 The Banking App allows users to efficiently manage their finances. It offers features like viewing account balances, making deposits, withdrawals, 
 and transfers, and managing different account types for admins, employees, and customers.
@@ -25,7 +25,7 @@ and transfers, and managing different account types for admins, employees, and c
 - **User Authentication:** Secure login and session management to protect user data.
 - **Password Hashing:** Storing obscure passwords inside the database for protection
 - **Account Management:** View and manage checking, savings, and investment accounts.
-- **Transaction History:** Track deposits, withdraws and transfers for each user.
+- **Transaction History:** Track all deposits, withdraws and transfers.
 
 ### Contributions 
 - Password hashing 
@@ -33,7 +33,6 @@ and transfers, and managing different account types for admins, employees, and c
 - Login front / back 
 - Create Admin account front / back 
 - Creating Sessions
-- Holding an employees or admin status with a customer id in session for employee access to customers account
 
 ### Technologies
 - Frontend: React
@@ -52,29 +51,29 @@ and transfers, and managing different account types for admins, employees, and c
 -  [Hangman](https://github.com/Weber-Cooper-Maitoza/Hangman_Game_Group)
 
 ### Overview
-Classic word guessing game where players try to guess the word before running out of attempts.
-A highscore is kept for the players and displays when a game is won or lost. 
+The Hangman Game is a classic word-guessing game where players try to guess the word before running out of attempts. 
+The game keeps track of high scores and displays them upon winning or losing.
 
 ### Features
-- **Interactive Gameplay:** Users can guess letters and see the correct and incorrect letters while displaying where correct guesses are made.
-- **Score Tracking:** Keeps track of high scores for each length of word
+- **Interactive Gameplay:** Users can guess letters, see correct and incorrect guesses, and view the word as it is revealed.
+- **Score Tracking:** High scores are tracked for each word length, adding a competitive element.
 
 ### Contributions
-- Selecting random word from database.
-- Creating session to keep username, word, length, letters guessed, and if guess was in word.
-- Checking users guessed letter and returning array with only correct guesses shown.
-- Backend route returning correct word.
+- Developed the logic for selecting random words from the database.
+- Created session management to retain the player's progress, including guessed letters and remaining attempts.
+- Implemented backend routes for validating guesses and revealing correct letters.
+- Designed the backend to return the correct word after the game ends.
 
 ### Technologies
-- Backend: Node.js with Express.js for session management
-- Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS, Javascript
+- Backend: Node.js with Express.js 
 
 ![Hangman Demo](gifs/hangmanDemo.gif)
 
 ### How to Run
 1. Clone the repository.
 2. Navigate to the `Hangman-Game-Group` directory.
-3. Run `npm install` to install dependencies on both ends.
+3. Run `npm install` to install dependencies inside frontend and backend.
 4. Start the development server with `npm start` on both ends.
 
 
@@ -83,7 +82,7 @@ A highscore is kept for the players and displays when a game is won or lost.
 -  [Connect Four](https://github.com/BrodyGGG/connectFour/tree/main/connectFour)
 
 ### Overview
--React web application for the classic connect four game 
+A React-based web application of the classic Connect Four game, featuring two-player gameplay with visual cues for turns and winning moves. 
 
 ### Features
 - Two players
@@ -93,8 +92,7 @@ A highscore is kept for the players and displays when a game is won or lost.
 - Bad color choices (:
 
 ### Technologies
-- Frontend: React
-- Javascript
+- Frontend: React, Javascript
 
 ![ConnectFourDemo](gifs/connectFour.gif)
 
@@ -110,19 +108,16 @@ A highscore is kept for the players and displays when a game is won or lost.
 -  [Read Write](https://github.com/BrodyGGG/readWriteTextfile)
 
 ### Overview
-- Saving data to a local text file.
-- User saves there name and favorite food.
-- Search a food to see if anyone else loves that food 
+A simple Express.js application that allows users to save their name and favorite food to a local text file. 
+Users can also search for a specific food to see who else shares the same favorite.
 
 ### Features
-- Express
-- Front and backend routes
-- Handling parameters 
+- **Data Persistence:** Saves user input to a local text file.
+- **Search Functionality:** Allows users to search for a specific food and see who else likes it.
 
 ### Technologies
-- HTML
-- Javascript
-- Express
+- Frontend: HTML, JavaScript
+- Backend: Express.js
 
 ![Read Write](gifs/readWrite.gif)
 
@@ -138,17 +133,16 @@ A highscore is kept for the players and displays when a game is won or lost.
 -  [Web Form](https://github.com/BrodyGGG/simpleReactWebForm)
 
 ### Overview
-- Saving data to a local text file.
-- User saves there name and favorite food.
+A basic web form created using React and Express.js that allows users to submit their name and favorite food, 
+which is then saved to a local text file.
 
 ### Features
-- Express
-- Front and backend routes 
+- **User Submission:** Allows users to input their name and favorite food.
+- **Data Storage:** Saves the users name and food to a local text file
 
 ### Technologies
-- HTML
-- Javascript
-- Express
+- Frontend: React, HTML, JavaScript
+- Backend: Express.js
 
 ### How to Run
 1. Clone the repository.
@@ -165,7 +159,7 @@ A highscore is kept for the players and displays when a game is won or lost.
 
 To set up the projects locally:
 1. Clone this repository:
-   git clone https://github.com/BrodyGGG/BrodyGGG.github.io
+   `git clone https://github.com/BrodyGGG/BrodyGGG.github.io`
    
 ## Contact 
 - **Email:** brodygardner@mail.weber.edu
