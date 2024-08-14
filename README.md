@@ -11,7 +11,7 @@ I've worked on two main projects:
   for viewing and managing customer data.
 
 This repository includes some of my group and individual projects, like a **Banking App**, **Hangman Game**, and more. 
-These projects show what I've learned along the way in my software engineering journey. Enjoy checking them out!
+These projects show what I've learned along the way in my software engineering journey. Enjoy!
 
 
 ## Table of Contents
