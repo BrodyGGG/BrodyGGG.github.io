@@ -5,7 +5,7 @@ These projects demonstrate the skills and knowledge I've gained throughout my so
 
 ## Table of Contents
 
-1. [Banking App](#banking-app)
+1. [Banking App](#banking-app-group)
 2. [Hangman Game](#hangman-game)
 3. [Connect Four](#Connect-Four)
 4. [Read Write Text File](#Read-Write)
