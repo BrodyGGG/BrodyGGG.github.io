@@ -1,15 +1,18 @@
 # Brodys Portfolio
 
-Welcome!
+# Welcome!
+I'm a computer science student at Weber State University and a programmer at Pye Barker FS. At Pye, I work on creating apps that make it easier for people to use Sedona. 
+I've worked on two main projects:
 
-I'm currently a computer science student at Weber State University and a programmer at Pye Barker FS. At Pye, I focus on creating applications that streamline user interaction with Sedona. 
-I've contributed to two key projects:
-- **Parts Consolidation Tool:** Designed to remove and consolidate duplicate parts in our parts table, improving data accuracy. The parts table has become quite giant as the company brings in new businesses and with
-    this tool it helps provide a more streamline way for parts to be consolidated and transfer respective data to one single part.
--  **Workspace Application:** Currently in development, this app aims to remove traffic from Sedona by providing a  workspace for sales and other team members, enhancing their experience when accessing customer data.
+- **Parts Consolidation Tool**: This tool helps clean up our parts table by removing and merging duplicate parts. As our company grows and acquires new businesses,
+  this tool makes it easier to manage parts and keep everything organized under one part number.
   
-This repository showcases some of my group and individual projects, including a Banking App, Hangman Game, and more.
-These projects demonstrate the skills and knowledge I've gained throughout my software engineering journey. Enjoy exploring!
+- **Workspace Application**: I'm currently working on this app to reduce the load on Sedona. It gives sales and other team members a better workspace
+  for viewing and managing customer data.
+
+This repository includes some of my group and individual projects, like a **Banking App**, **Hangman Game**, and more. 
+These projects show what I've learned along the way in my software engineering journey. Enjoy checking them out!
+
 
 ## Table of Contents
 
